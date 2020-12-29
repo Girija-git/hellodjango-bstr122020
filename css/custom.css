@@ -1,10 +1,23 @@
 
-
+body{
+	font-family: 'Roboto', sans-serif;
+}
 /* Container width */
 /* .container{
 	max-width: 900px;
 } */
 
+.navbar-brand{
+	text-transform: uppercase;
+	font-weight: 900;
+	letter-spacing: 1px;
+}
 .h1color{
 	color: #377C2B;
+	font-weight: 900;
+}
+
+
+.text-muted {
+    color: #EBB3B8!important;
 }
