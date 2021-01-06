@@ -21,3 +21,11 @@ body{
 .text-muted {
     color: #EBB3B8!important;
 }
+
+/* Header */
+
+.headerbackground{
+	background-color: #031633;
+	color: #FFFFFF;
+	border-radius: 0px;
+}
